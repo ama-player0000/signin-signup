@@ -8,6 +8,7 @@
 - [x] CSS
 - [x] PHP - Ajax
 - [x] MySql
+- [x] <a href="https://github.com/ama-player0000/signin-signup/wiki/Wiki-MySQL">Wiki MySQL</a>
 
 ## Note ! 
 - Creation table in DataBase MYSQL *---For example--->* ` users `
