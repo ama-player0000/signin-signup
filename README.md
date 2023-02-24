@@ -11,7 +11,18 @@
 - [x] <a href="https://github.com/ama-player0000/signin-signup/wiki/Wiki-MySQL">Wiki MySQL</a>
 
 ## Note ! 
-- Creation table in DataBase MYSQL *---For example--->* ` users `
+- Creation table in DataBase MYSQL *---For example--->* 
+```MySQL 
+CREATE TABLE `users`
+```
+<br>
+
 - set Datebase codes
+```MySQL 
+`id` int(10) unsigned NOT NULL,
+  `username` varchar(10) NOT NULL,
+  `password` varchar(10) NOT NULL,
+  `email` varchar(25) NOT NULL,
+```
 - Customization Capability
 - ability to connect to the dashboard section
