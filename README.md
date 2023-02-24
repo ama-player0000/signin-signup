@@ -17,12 +17,18 @@ CREATE TABLE `users`
 ```
 <br>
 
-- set Datebase codes
+- set Datebase codes *---For example--->* 
 ```MySQL 
-`id` int(10) unsigned NOT NULL,
-  `username` varchar(10) NOT NULL,
-  `password` varchar(10) NOT NULL,
-  `email` varchar(25) NOT NULL,
+`Id` int(5) unsigned NOT NULL,
+```
+```MySQL 
+`User` varchar(5) NOT NULL,
+```
+```MySQL 
+`Pass` varchar(5) NOT NULL,
+```
+```MySQL 
+`Email` varchar(5) NOT NULL,
 ```
 - Customization Capability
 - ability to connect to the dashboard section
