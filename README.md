@@ -32,3 +32,10 @@ CREATE TABLE `users`
 ```
 - Customization Capability
 - ability to connect to the dashboard section
+
+<h1 align="center"><a href="">View Demo Signin 🚪</a></h1>
+<h1 align="center"><a href="">View Demo Signup ✍️</a></h1>
+
+
+
+
